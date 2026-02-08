@@ -38,5 +38,19 @@ Server will run on:
 
 http://localhost:5000
 
+One Improvement with More Time
+
+If I had more time, I would:
+
+Implement full authentication flow (signup/login)
+
+Restrict RLS policies to user-specific data
+
+Integrate vector search (RAG) using Supabase + embeddings
+
+Add proper error handling and logging
+
+Deploy the backend on a cloud platform (Render / Railway)
+
 
 
