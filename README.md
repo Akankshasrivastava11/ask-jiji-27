@@ -38,19 +38,19 @@ Server will run on:
 
 http://localhost:5000
 
-One Improvement with More Time
+## One Improvement with More Time
 
-If I had more time, I would:
+      1.If I had more time, I would:
 
-Implement full authentication flow (signup/login)
+      2.Implement full authentication flow (signup/login)
 
-Restrict RLS policies to user-specific data
+      3.Restrict RLS policies to user-specific data
 
-Integrate vector search (RAG) using Supabase + embeddings
+      4.Integrate vector search (RAG) using Supabase + embeddings
 
-Add proper error handling and logging
+      5.Add proper error handling and logging
 
-Deploy the backend on a cloud platform (Render / Railway)
+      6.Deploy the backend on a cloud platform (Render / Railway)
 
 
 
