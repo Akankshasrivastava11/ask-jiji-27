@@ -1,0 +1,11 @@
+{
+  "name": "learn-with-jiji",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.95.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.2.4",
+    "express": "^4.5.2"
+  }
+}
