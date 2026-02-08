@@ -18,5 +18,25 @@ It demonstrates API handling, environment setup, and Supabase Row Level Security
 
 ### 1. Clone the repository
 ```bash
-git clone<>
+git clone<https://github.com/Akankshasrivastava11/ask-jiji-27.git>
 cd learn-with-jiji
+
+
+2. Install dependencies
+npm install
+
+3. Create .env file
+PORT=5000
+SUPABASE_URL=your_supabase_project_url
+SUPABASE_ANON_KEY=your_publishable_key
+
+4. Start the server
+node index.js
+
+
+Server will run on:
+
+http://localhost:5000
+
+
+
